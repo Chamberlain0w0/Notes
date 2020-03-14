@@ -1,9 +1,11 @@
 # Notes
 All notes for my courses @SYSU
 
-If you find any mistake, please contact me via email or fork an issue. I'd be very glad to receive your email!If you want the raw Latex code, contact me plz,looking forward for your email!
+If you find any mistake, please contact me via email or fork an issue. I'd be very glad to receive your email!
 
-My email:liusy58@mail2.sysu.edu.cn
+If you want the raw Latex code, contact me plz,looking forward for your email!
+
+My email address:liusy58@mail2.sysu.edu.cn
 
 
 如果觉得这些笔记对你有帮助的话，请给个star！
