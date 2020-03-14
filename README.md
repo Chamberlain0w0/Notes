@@ -37,6 +37,6 @@ My email address:liusy58@mail2.sysu.edu.cn
 |分布式系统|2019秋|❎|
 |数字图像处理|2019秋|❎|
 |人工智能|2019秋|❎|
-|组合数学|2019秋|❎|
+|[组合数学](https://github.com/liusy58/Notes/tree/master/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6)|2019秋|✅|
 
 
