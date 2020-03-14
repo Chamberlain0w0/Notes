@@ -22,7 +22,7 @@ My email address:liusy58@mail2.sysu.edu.cn
 |[数学分析中](https://github.com/liusy58/Notes/tree/master/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B8%AD)|2018春|❎|
 |[数字电路与逻辑设计](https://github.com/liusy58/Notes/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1)|2018春|✅|
 |离散数学|2018春|❎|
-|数据结构|2018秋|❎|
+|[数据结构](https://github.com/liusy58/Notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)|2018秋|✅|
 |[概率论](https://github.com/liusy58/Notes/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA)|2018秋|✅|
 |计算机组成原理|2018秋|❎|
 |数学分析原理|2018秋|❎|
