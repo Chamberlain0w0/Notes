@@ -35,7 +35,7 @@ My email address:liusy58@mail2.sysu.edu.cn
 |高级编程技术|2019春|❎|
 |数据库|2019秋|❎|
 |分布式系统|2019秋|❎|
-|数字图像处理|2019秋|❎|
+|[数字图像处理]()|2019秋|❎|
 |[人工智能](https://github.com/liusy58/Notes/tree/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)|2019秋|✅|
 |[组合数学](https://github.com/liusy58/Notes/tree/master/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6)|2019秋|✅|
 
