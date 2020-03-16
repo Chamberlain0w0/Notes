@@ -27,7 +27,7 @@ My email address:liusy58@mail2.sysu.edu.cn
 |计算机组成原理|2018秋|❎|
 |数学分析原理|2018秋|❎|
 |数学分析下|2018秋|❎|
-|操作系统|2019春|❎|
+|[操作系统](https://github.com/liusy58/Notes/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)|2019春|❎|
 |计算机网络|2019春|❎|
 |数值分析|2019春|❎|
 |傅里叶分析|2019春|❎|
